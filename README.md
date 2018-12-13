@@ -11,7 +11,6 @@
     1. **UI**: 
     Un estilo minimalista será el protagonista del sitio: amplios espacios en blanco, una tipografía de palo seco, grises con un solo tono de color y formas rectas (referentes a un cuadro) le dará una visualidad moderna, elegante y profesional.
     La idea centra del sitio es que hayan campos de personalización para que el cliente customice su cuadro y que, en cada uno, se ilustre través de iconos y/o fotos el campo que esta llenando. Además contará con una sección de carro de compras, en el cual las fotografias con fondos planos reforzarán el estilo minimalista.
-
     Las secciónes que se encontrarán al inicio de la página son:
 
   		1. Barra de Navegación.

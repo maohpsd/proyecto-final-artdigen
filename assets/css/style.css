@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,900');
+
+body {
+
+	margin: 0px;
+}
+
+.article {
+
+	color: #6d6d6d;
+	font-family: 'Montserrat';
+	text-align: center;
+	font-weight: 500;
+	
+
+
+ }
+
+.carrito .card-text, .carrito .card-title  {
+
+	color: #6d6d6d;
+	font-family: 'Montserrat';
+	text-align: center;
+	
+
+}
+
+.carrito {
+
+	text-align: center;
+}
+
+.carrito .card-title {
+
+	font-weight: 700;
+	font-size: 16px;
+}
+
+.carrito .card-text {
+
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.carrito__producto {
+
+    border-radius: 30px;
+	padding: 10px 30px 10px 30px;
+    border: none;
+    font-size: 14px;
+    background-color: #a1a2a0;
+
+}
+
+.carrito__producto--borde {
+
+    border-radius: 30px;
+	padding: 10px 30px 10px 30px;
+	border: 2px solid #a1a2a0;
+    font-size: 14px;
+    background-color: #fff;
+ 
+
+}
